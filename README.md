@@ -1,2 +1,2 @@
-# caffe-menu
+# coffee-menu
 menu card
